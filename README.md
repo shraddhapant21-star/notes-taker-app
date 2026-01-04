@@ -27,4 +27,5 @@ Handling events like click and keyup
 2. Type your note
 3. Notes are saved automatically in the browser
 
-# DEMO
+## DEMO
+https://shraddhapant21-star.github.io/notes-taker-app
